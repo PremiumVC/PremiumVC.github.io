@@ -50,7 +50,7 @@ h3 {
 
 .parralax-inner {
 	padding-top: 20%;
-	padding-bottom: 20%;
+	padding-bottom: 5%;
 }
 /*---End Parralax---*/
 
@@ -67,8 +67,11 @@ h3 {
 /*---End Parralax Block2---*/
 
 
-.ParralaxIMG {
-	margin: auto;
+.centerImage
+{
+text-align:center;
+display:block;
+border: 3px;
 }
 
 

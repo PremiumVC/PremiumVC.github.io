@@ -69,10 +69,11 @@ h3 {
 
 .centerImage
 {
-text-align:center;
-display:block;
-border: 3px;
-margin: 0;
+
+	text-align:center;
+	display:block;
+	border: 3px;
+	margin: 0;
 }
 
 

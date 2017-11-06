@@ -57,7 +57,7 @@ h3 {
 
 /*---Start Parralax Block2---*/
 .parralax {
-	background: url("https://i.imgur.com/VHmKmhZ.jpg") repeat fixed 100%;
+	background: url("https://i.imgur.com/VHmKmhZ.jpg") fixed 100%;
 }
 
 .parralax-inner-block2 {
